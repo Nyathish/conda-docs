@@ -64,7 +64,6 @@ We recommend the following conda distributions to install conda:
         preconfigured for use with the Anaconda Repository. See the
         notes about Anaconda's :ref:`Terms of Service <anaconda-tos_notes>`.
 
-        .. button-link:: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
             :color: primary
 
             :fab:`windows` Windows :bdg-light-line:`x86_64` :octicon:`download`
